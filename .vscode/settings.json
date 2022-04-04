@@ -1,5 +1,6 @@
 {
     "terminal.integrated.cwd": "",
     "terminal.integrated.splitCwd": "inherited",
+    "python.venvPath": "/home/user/anaconda3/envs/mleng",
     "python.terminal.executeInFileDir": true
 }
