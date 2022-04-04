@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.cwd": "",
+    "terminal.integrated.splitCwd": "inherited",
+    "python.terminal.executeInFileDir": true
+}
